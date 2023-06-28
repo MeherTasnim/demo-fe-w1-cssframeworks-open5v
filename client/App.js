@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 function App(){
     return(
         <div>
-            <h1>Hello!!!! I'm in React!!</h1>
+            <h1>Hello</h1>
             <button className="btn btn-danger">This is a button!</button>
             <Container>
                 I'm inside a React Bootstrap container right now!!!
